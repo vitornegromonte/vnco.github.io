@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "vitornegromonte.github.io/" 
+title: Vitor Negromonte
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -10,25 +10,19 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
+        - name: Projects
+          url: projects/
+          weight: 4
         - name: Papers
           url: papers/
-          weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
           weight: 4 
         - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+          url: https://medium.com/@vitornegromonte
+          weight: 4
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "Data Scientist and AI Researcher"
+    author: Vitor Negromonte
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -42,7 +36,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["projects","papers", "blog"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -52,56 +46,41 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          title: Vitor Negromonte
+          subtitle: "Data Scientist and AI Researcher. Undergraduate Statistics student at the Federal University of Pernambuco (UFPE) with a focus on machine learning and model optimization. Currently, conducting research in Generative AI, working on the evaluation and optimization of Language Models (LLMs) and retrieval algorithms. Passionate about data science, with hands-on experience in Python, R, machine learning frameworks, and AI-driven projects aimed at solving real-world problems."
+          imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
             - name: Papers
               url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
+            - name: Projects
+              url: projects/
             - name: Tags
               url: tags/
             - name: Archive
               url: archive/
             - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: https://medium.com/@vitornegromonte
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: mailto:vitorncabral@gmail.com
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
-
+          url: https://github.com/vitornegromonte
+        - name: LinkedIn
+          url: https://linkedin.com/in/vitornegromonte
+        - name: Instagram
+          url: https://instagram.com/vitor.ncabral
     assets:
         disableScrollBarStyle: true
     cover:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Vitor Negromonte"
       icon: favicon.ico
       iconHeight: 18
 
