@@ -1,14 +1,14 @@
 ---
 title: "A Comparative Study on Accessibility for Autistic Individuals with Urban Mobility Apps" 
-date: 2024-10
+date: 2024-10-07
 url: https://www.researchgate.net/publication/384931220_A_Comparative_Study_on_Accessibility_for_Autistic_Individuals_with_Urban_Mobility_Apps
 tags: ["Human-centered computing","Accessibility systems and tools","Accessibility design and evaluation methods", "Empirical studies in accessibility."]
 author: ["Danilo Monteiro Ribeiro", "Felipe Vasconcelos Melo", "Vitor Negromonte", "Gabriel Walisson Matias", "Adna Farias", "Celeste Azul", "Ana Paula Chaves", "Kiev Gama"]
-description: "Paper description for search engines (less than 155 characters)" 
-summary: "Paper summary for list page (less than 265 characters)"
+description: "A Comparative Study on Accessibility for Autistic Individuals with Urban Mobility Apps" 
+summary: "A Comparative Study on Accessibility for Autistic Individuals with Urban Mobility Apps"
 editPost:
     URL: "https://www.researchgate.net/publication/384931220_A_Comparative_Study_on_Accessibility_for_Autistic_Individuals_with_Urban_Mobility_Apps"
-    Text: "IHC2024"
+    Text: "IHC2024-Brasilia"
 
 ---
 
@@ -21,7 +21,7 @@ Autism Spectrum Disorder (ASD) is a neurodivergent condition with a wide range o
 
 ##### Citation
 
-Danilo Monteiro Ribeiro, Felipe Vasconcelos Melo, Vitor Negromonte, Gabriel Walisson Matias, Adna Farias, Celeste Azul, Ana Paula Chaves, Kiev Gama. 2024. "A Comparative Study on Accessibility for Autistic Individuals with Urban Mobility Apps." *IHC 2024* https://doi.org/paper_doi.
+Danilo Monteiro Ribeiro, Felipe Vasconcelos Melo, Vitor Negromonte, Gabriel Walisson Matias, Adna Farias, Celeste Azul, Ana Paula Chaves, Kiev Gama. 2024. "A Comparative Study on Accessibility for Autistic Individuals with Urban Mobility Apps." *IHC 2024*.
 
 ```BibTeX
 @inproceedings{inproceedings,
