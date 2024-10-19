@@ -1,7 +1,7 @@
 ---
 title: "A Comparative Study on Accessibility for Autistic Individuals with Urban Mobility Apps" 
 date: 2024-10-07
-url: /papers/
+url: /ihc2024/
 tags: ["Human-centered computing","Accessibility systems and tools","Accessibility design and evaluation methods", "Empirical studies in accessibility."]
 author: ["Danilo Monteiro Ribeiro", "Felipe Vasconcelos Melo", "Vitor Negromonte", "Gabriel Walisson Matias", "Adna Farias", "Celeste Azul", "Ana Paula Chaves", "Kiev Gama"]
 description: "A Comparative Study on Accessibility for Autistic Individuals with Urban Mobility Apps" 
