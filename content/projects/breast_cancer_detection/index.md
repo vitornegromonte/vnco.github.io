@@ -8,7 +8,7 @@ tags: ["Python", "TensorFlow", "Keras", "Computer Vision", "Healthcare"]
 author: ["Vitor Negromonte", "Eduardo Medeiros"]
 description: "Cancer diagnosis using AI Methods."
 cover:
-    image: "project3.jpg"
+    image: "project3.png"
     alt: "Convolutional Neural Networks in Breast Cancer Diagnosis"
 ---
 

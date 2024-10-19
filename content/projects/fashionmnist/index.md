@@ -6,7 +6,7 @@ tags: ["Python", "TensorFlow", "Keras","Pytorch", "scikit-learn", "Deep Learning
 author: ["Vitor Negromonte"]
 description: "Leveraging models in the FashionMNIST Dataset"
 cover:
-    image: "project2.jpg"
+    image: "project2.png"
     alt: "Comparative analysis of machine learning models in the FashionMNIST Dataset"
 ---
 ---

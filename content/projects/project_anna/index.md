@@ -5,4 +5,6 @@ lastmod: 2024-10-19
 tags: ["Python", "Agents", "LLMs", "RAG", "HuggingFace", "LangChain"]
 author: ["Vitor Negromonte"]
 description: "Using AI Agents for reviewing and recommendation of papers."
+cover:
+  image: "projectA.png"
 ---

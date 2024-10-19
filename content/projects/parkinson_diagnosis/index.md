@@ -8,7 +8,7 @@ tags: ["Python", "Pytorch", "Computer Vision", "Healthcare", "Keynote"]
 author: ["Vitor Negromonte", "Rafael Barros", "Gabriel Matias"]
 description: "Using computer vision techniques to help in parkinson diagnosis."
 cover:
-    image: "project4.jpg"
+    image: "project4.png"
     alt: "An abstract image of a cosmic-like brain"
 ---
 
