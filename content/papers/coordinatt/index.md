@@ -3,7 +3,7 @@ title: "[On-going] Coordinatt - Leveraging Softmax-Attention as Retrieval Mechan
 date: 2024-09
 url: /coordinatt/
 tags: ["LLMs","RAG","Information Retrieval","Python", "PyTorch"]
-author: ["Vitor N. Cabral de Oliveira", "Matheus V. Alves da Silva]
+author: ["Vitor N. Cabral de Oliveira", "Matheus V. Alves da Silva"]
 description: "Leveraing Softmax-Attention as Replacement for Cosine Similarity in High-Dimensional Data" 
 summary: "Leveraing Softmax-Attention as Replacement for Cosine Similarity in High-Dimensional Data"
 
