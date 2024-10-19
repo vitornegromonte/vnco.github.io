@@ -1,13 +1,13 @@
 ---
 title: "A Comparative Study on Accessibility for Autistic Individuals with Urban Mobility Apps" 
 date: 2024-10-07
-url: https://www.researchgate.net/publication/384931220_A_Comparative_Study_on_Accessibility_for_Autistic_Individuals_with_Urban_Mobility_Apps
+url: /papers/
 tags: ["Human-centered computing","Accessibility systems and tools","Accessibility design and evaluation methods", "Empirical studies in accessibility."]
 author: ["Danilo Monteiro Ribeiro", "Felipe Vasconcelos Melo", "Vitor Negromonte", "Gabriel Walisson Matias", "Adna Farias", "Celeste Azul", "Ana Paula Chaves", "Kiev Gama"]
 description: "A Comparative Study on Accessibility for Autistic Individuals with Urban Mobility Apps" 
 summary: "A Comparative Study on Accessibility for Autistic Individuals with Urban Mobility Apps"
 editPost:
-    URL: "https://www.researchgate.net/publication/384931220_A_Comparative_Study_on_Accessibility_for_Autistic_Individuals_with_Urban_Mobility_Apps"
+    URL: "https://researchgate.net/publication/384931220_A_Comparative_Study_on_Accessibility_for_Autistic_Individuals_with_Urban_Mobility_Apps"
     Text: "IHC2024-Brasilia"
 
 ---
