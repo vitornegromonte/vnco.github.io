@@ -1,4 +1,4 @@
 ---
 title: "Projects"
-description: "All projects made by me."
+description: "All projects made by Vitor Negromonte."
 ---
