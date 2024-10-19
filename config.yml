@@ -82,7 +82,7 @@ params:
     label:
       text: "Vitor Negromonte"
       icon: favicon.ico
-      iconHeight: 18
+      iconHeight: 20
 
 markup:
     goldmark:
