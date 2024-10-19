@@ -47,7 +47,7 @@ params:
     profileMode:
           enabled: true
           title: Vitor Negromonte
-          subtitle: "Data Scientist and AI Researcher. Undergraduate Statistics student at the Federal University of Pernambuco (UFPE) with a focus on machine learning and model optimization. Currently, conducting research in Generative AI, working on the evaluation and optimization of Language Models (LLMs) and retrieval algorithms. Passionate about data science, with hands-on experience in Python, R, machine learning frameworks, and AI-driven projects aimed at solving real-world problems."
+          subtitle: "Data Scientist and AI Researcher. Undergraduate **Statistics** student at the Federal University of Pernambuco (UFPE) with a focus on **machine learning** and model **optimization**. Currently, conducting research in **Generative AI**, working on the evaluation and optimization of **Language Models (LLMs)** and **retrieval algorithms**. Passionate about data science, with hands-on experience in **Python**, **R**, machine learning frameworks, and AI-driven projects aimed at solving real-world problems."
           imageUrl: "profile.jpg"
           imageWidth: 180
           imageHeight: 180
