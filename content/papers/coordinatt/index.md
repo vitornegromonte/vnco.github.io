@@ -1,6 +1,6 @@
 ---
 title: "[On-going] Coordinatt - Leveraging Softmax-Attention as Retrieval Mechanism for High-Dimensional Data" 
-date: 2024-09
+date: 2024-09-01
 url: /coordinatt/
 tags: ["LLMs","RAG","Information Retrieval","Python", "PyTorch"]
 author: ["Vitor N. Cabral de Oliveira", "Matheus V. Alves da Silva"]
