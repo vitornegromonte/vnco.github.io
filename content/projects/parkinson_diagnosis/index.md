@@ -14,7 +14,7 @@ cover:
 
 ---
 
-Our project aimed in turning Parkinson diagnosis less expensive and more efficient.
+Our project aimed in turning Parkinson disease diagnosis less expensive and more efficient.
 
 ---
 
