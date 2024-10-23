@@ -5,17 +5,18 @@ lastmod: 2024-01-31
 tags: ["Python", "TensorFlow", "Keras","Pytorch", "scikit-learn", "Deep Learning", "Machine Learning", "Computer Vision", "Healthcare"]
 author: ["Vitor Negromonte"]
 description: "Leveraging models in the FashionMNIST Dataset"
+summary: "Leveraging machine learning models in the FashionMNIST Dataset"
 cover:
     image: "project2.png"
     alt: "Comparative analysis of machine learning models in the FashionMNIST Dataset"
 ---
 ---
 
-A comparative analysis of machine learning and deep learning models in the FashionMNIST dataset
+Fashion MNIST comparative analysis using machine learning models: Multi-Layer Perceptron, CNNs (VGG, ResNet, GoogLeNet, DenseNet), a CNN model (from scratch) and base models (random forest, SVM, decision tree, KNN, etc...)
 
 ---
 
-##### Download
-+ [Code and data](https://github.com/vitornegromonte/FashionMNIST-ComparativeAnalysis/)
+##### More info
++ [GitHub repository](https://github.com/vitornegromonte/FashionMNIST-ComparativeAnalysis/)
 
 ---
