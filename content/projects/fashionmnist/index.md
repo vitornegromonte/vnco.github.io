@@ -10,7 +10,9 @@ cover:
     image: "project2.png"
     alt: "Comparative analysis of machine learning models in the FashionMNIST Dataset"
 ---
+
 ---
+##### Description
 
 Fashion MNIST comparative analysis using machine learning models: Multi-Layer Perceptron, CNNs (VGG, ResNet, GoogLeNet, DenseNet), a CNN model (from scratch) and base models (random forest, SVM, decision tree, KNN, etc...)
 
