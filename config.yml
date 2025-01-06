@@ -16,6 +16,9 @@ menu:
         - name: Papers
           url: papers/
           weight: 4 
+        - name: Talks
+          url: talks/
+          weight: 4
         - name: Blog
           url: https://medium.com/@vitornegromonte
           weight: 4
@@ -24,19 +27,19 @@ params:
     description: "Data Scientist and AI Researcher"
     author: Vitor Negromonte
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
+    DateFormat: "January 2003"
     defaultTheme: light
-    hideFooter: false
-    disableThemeToggle: false
+    hideFooter: true
+    disableThemeToggle: true
     ShowShareButtons: false
-    ShowReadingTime: true
+    ShowReadingTime: false
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["about", "projects","papers", "blog"]
+    MainSections: ["about", "projects","papers", "talks", "blog"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -58,6 +61,8 @@ params:
               url: papers/
             - name: Projects
               url: projects/
+            - name: Talks
+              url: talks/
             - name: Blog
               url: https://medium.com/@vitornegromonte
 
@@ -65,7 +70,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:vitorncabral@gmail.com
+          url: mailto:contato.vnco@gmail.com
         - name: GitHub
           url: https://github.com/vitornegromonte
         - name: LinkedIn
