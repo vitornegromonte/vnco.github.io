@@ -27,7 +27,7 @@ params:
     description: "Data Scientist and AI Researcher"
     author: Vitor Negromonte
     # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2003"
+    DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
     disableThemeToggle: true
